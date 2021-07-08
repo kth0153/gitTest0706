@@ -8,6 +8,11 @@
 </head>
 <body>
     git update
+    update
+<<<<<<< HEAD
 	eclipse update
+=======
+    it update2
+>>>>>>> refs/remotes/choose_remote_name/master
 </body>
 </html>
